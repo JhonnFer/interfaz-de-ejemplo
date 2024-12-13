@@ -1,8 +1,8 @@
 import React from 'react';
-import InfoPersonal from './InfoPersonal';
-import Estudios from './Estudios';
-import Herramientas from './Herramientas';
-import Deportes from './Deportes';
+import InfoPersonal from './componet/InfoPersonal';
+import Estudios from './componet/Estudios';
+import Herramientas from './componet/Herramientas';
+import Deportes from './componet/Deportes';
 
 const App = () => {
   return (
