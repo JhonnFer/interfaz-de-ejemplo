@@ -7,7 +7,7 @@ const Deportes = () => {
             <div style={{ display: 'flex', justifyContent: 'space-around' }}>
                 <div>
                     <img 
-                        src="/Imagenes1/images.jpg" 
+                        src="/imagenes/futbol_sala.jpeg" 
                         alt="Deporte 1" 
                         style={{ width: '300px', height: '200px', objectFit: 'cover' }}
                     />
@@ -15,7 +15,7 @@ const Deportes = () => {
                 </div>
                 <div>
                     <img 
-                        src="/Imagenes1/Baloncesto.jpg" 
+                        src="/imagenes/basketball.webp" 
                         alt="Deporte 2" 
                         style={{ width: '300px', height: '200px', objectFit: 'cover' }}
                     />
@@ -23,7 +23,7 @@ const Deportes = () => {
                 </div>
                 <div>
                     <img 
-                        src="/Imagenes1/Ecuavolley.jpg" 
+                        src="/imagenes/ecuavoley.jpg" 
                         alt="Deporte 3" 
                         style={{ width: '300px', height: '200px', objectFit: 'cover' }}
                     />
